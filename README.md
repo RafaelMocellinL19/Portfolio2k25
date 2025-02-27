@@ -1,6 +1,6 @@
 # Getting Started with GitHub Pages
 
-This project was bootstrapped with index.html [is on GitHub pages](https://rafaelmocellinl19.github.io/NewPortfolio/).
+This project was bootstrapped with index.html [is on GitHub pages](https://rafaelmocellinl19.github.io/Portfolio2k25/).
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `GitHub Pages`
 
 Runs the page on:\
-Open [https://github.com/RafaelMocellinL19/Portfolio/deployments](https://rafaelmocellinl19.github.io/NewPortfolio/) to view it in your browser.
+Open [https://github.com/RafaelMocellinL19/Portfolio/deployments](https://rafaelmocellinl19.github.io/Portfolio2k25/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
